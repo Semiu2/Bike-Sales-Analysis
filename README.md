@@ -26,7 +26,7 @@ Steps taken to clean and prepare the data for analysis:
 - Created the Revenue column
 
 
-## Dashboar
+## Dashboard
 
 ![bike sales dashboard](https://github.com/user-attachments/assets/ea620933-885f-4816-9c00-8f5dcae5a151)
 
@@ -39,6 +39,27 @@ Stable Revenue: Between 2020 and 2023, the revenue remained consistent, with min
 - Significant Decline in 2024: Revenue dropped by 26.68% in 2024, contributing only 15.5% to the total revenue.
 - Highest Revenue Year: 2022 had the highest revenue ($165,560,749).
 - Overall Contribution: Each year contributed approximately 21% to the grand total, except 2024, which saw a sharp decline.
+  
+### Monthly Average Revenue
+✔ 2020
+- Highest: $8,068 (April)
+- Lowest: $7,490 (May)
+  
+✔ 2021
+- Highest: $8,073 (August)
+- Lowest: $7,376 (July)
+
+✔ 2022
+- Highest: $7,935 (July)
+- Lowest: $7,608 (August)
+  
+✔ 2023
+- Highest: $7,953 (January)
+- Lowest: $7,545 (October)
+
+✔ 2024 
+- Highest: $8,042 (July)
+- Lowest: $7,617 (June)
 
 ### Customer Demographics:
 Middle-aged customers dominate sales, contributing 47,046 units, far exceeding adolescent and older customer brackets.
