@@ -25,6 +25,11 @@ Steps taken to clean and prepare the data for analysis:
 - Extraction of month and year from Date column using the Text function.
 - Created the Revenue column
 
+
+## Dashboar
+
+![bike sales dashboard](https://github.com/user-attachments/assets/ea620933-885f-4816-9c00-8f5dcae5a151)
+
 ## Key Findings
 
 ### Revenue:
