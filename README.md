@@ -30,6 +30,9 @@ Steps taken to clean and prepare the data for analysis:
 
 ![bike sales dashboard](https://github.com/user-attachments/assets/ea620933-885f-4816-9c00-8f5dcae5a151)
 
+## Analysed Dataset
+View [Here](https://drive.google.com/drive/folders/1Ih6aYv90gTEY1twcMcpvT3qIvYv0nYW1?usp=drive_link)
+
 ## Key Findings
 
 ### Revenue:
