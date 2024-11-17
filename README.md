@@ -27,10 +27,14 @@ Steps taken to clean and prepare the data for analysis:
 
 ## Key Findings
 
-### Revenue Trends:
+### Revenue:
 Total revenue has seen steady growth from 2020 to 2023, peaking at $165.6M in 2022.
 A sharp decline to $120.6M in 2024 suggests external market pressures or operational inefficiencies.
-Monthly trends highlight April as the strongest-performing month, while January and July show consistent underperformance.
+Stable Revenue: Between 2020 and 2023, the revenue remained consistent, with minor fluctuations (+1.24% in 2022 and -0.64% in 2023).
+- Significant Decline in 2024: Revenue dropped by 26.68% in 2024, contributing only 15.5% to the total revenue.
+- Highest Revenue Year: 2022 had the highest revenue ($165,560,749).
+- Overall Contribution: Each year contributed approximately 21% to the grand total, except 2024, which saw a sharp decline.
+
 ### Customer Demographics:
 Middle-aged customers dominate sales, contributing 47,046 units, far exceeding adolescent and older customer brackets.
 Gender distribution is balanced, with female customers purchasing slightly more bikes (50,227) compared to males (49,773).
