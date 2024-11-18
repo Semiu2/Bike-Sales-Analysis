@@ -2,6 +2,8 @@
 ## Project Objective
 The objective of this project is to analyze historical bike sales data from 2020 to 2024 to identify key trends, customer demographics, payment preferences, and store performance. This analysis aims to uncover actionable insights to optimize revenue, improve sales strategies, and enhance overall business performance.
 
+## Tool used
+ Microsoft Excel
 ## Data Source
 Get the raw Dataset👉[Download here](https://www.kaggle.com/datasets/jayavarman/bike-sales-data-of-100k)
 
